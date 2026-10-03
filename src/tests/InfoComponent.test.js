@@ -4,4 +4,4 @@ describe("just fake tests for Info Component", () => {
   });
 });
 
-// TODO: Your test need to be here instead of fake tests
+// TODO: Your tests need to be here instead of fake tests
